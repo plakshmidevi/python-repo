@@ -7,7 +7,7 @@
 #        0≤x≤n−1, and  b/a=x(modn) (that is, b=ax(modn)).
 
 # Theorem:
-# a has a multiplicative inverse modulo n iff gcd(a,n) = 1
+# a has a multiplicative inverse modulo n iff gcd(a,n) = 1//fourth commit
 
 
 # This find x = b*a^(-1) mod n
