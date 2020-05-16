@@ -3,7 +3,7 @@ import math
 
 def bisection(
     function, a, b
-):  # finds where the function becomes 0 in [a,b] using bolzano
+):  # finds where the function becomes 0 in [a,b] using bolzano, added by plakshmidevi
 
     start = a
     end = b
