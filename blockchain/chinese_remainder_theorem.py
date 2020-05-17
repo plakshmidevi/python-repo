@@ -6,7 +6,7 @@
 
 # Algorithm :
 
-# 1. Use extended euclid algorithm to find x,y such that a*x + b*y = 1
+# 1. Use extended euclid algorithm to find x,y such that a*x + b*y = 1//This is eight commit
 # 2. Take n = ra*by + rb*ax
 
 
